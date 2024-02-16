@@ -1,0 +1,16 @@
+
+
+
+.centrado{
+    margin: 10px;
+    border: 1px solid grey;
+    float: left;
+    width: 10vw;
+
+}
+
+
+.descripcion{
+    padding: 20px;
+    text-align: center;
+}
